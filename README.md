@@ -1,4 +1,4 @@
-# Bear-Currency-Library
+# Bear-Currency-Library ![Alt-text](https://github.com/koryOzyurt/Bear-Currency-Api/blob/master/logo.jpg "Logo")
 
 ***
 
